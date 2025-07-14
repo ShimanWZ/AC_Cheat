@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+C:\Users\Shiman\source\repos\AC_cheat\utilities\Memory.h(25,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Shiman\source\repos\AC_cheat\utilities\Memory.h(46,100): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Shiman\source\repos\AC_cheat\main.cpp(19,29): error C2440: 'reinterpret_cast': cannot convert from 'T' to 'uintptr_t'
+C:\Users\Shiman\source\repos\AC_cheat\main.cpp(19,29): error C2440:         with
+C:\Users\Shiman\source\repos\AC_cheat\main.cpp(19,29): error C2440:         [
+C:\Users\Shiman\source\repos\AC_cheat\main.cpp(19,29): error C2440:             T=uintptr_t
+C:\Users\Shiman\source\repos\AC_cheat\main.cpp(19,29): error C2440:         ]
+      C:\Users\Shiman\source\repos\AC_cheat\main.cpp(19,29):
+      Conversion is a valid standard conversion, which can be performed implicitly or by use of static_cast, C-style cast or function-style cast
+  
+C:\Users\Shiman\source\repos\AC_cheat\main.cpp(19,13): error C2737: 'healthAddress': const object must be initialized
+C:\Users\Shiman\source\repos\AC_cheat\main.cpp(20,37): error C3536: 'healthAddress': cannot be used before it is initialized
