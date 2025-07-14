@@ -35,5 +35,5 @@ A simple memory manipulation cheat for **AssaultCube version 1.3.0.2** that prov
 ## 🧾 ASCII Art & Credit
 
 This project includes fun ASCII art to enhance the terminal interface, inspired by community art from:
-- [Krogg98]([https://www.asciiart.eu/weapons/guns])
+- [Krogg98](https://www.asciiart.eu/weapons/guns)
 - [https://patorjk.com/software/taag]
